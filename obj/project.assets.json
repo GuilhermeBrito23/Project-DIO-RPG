@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Brito\\Desktop\\Projetos\\Repositorio-Desafios-Bootcamp-DIO\\Desafio-Poo\\Desafio-Poo.csproj",
+      "projectUniqueName": "C:\\Users\\Brito\\Desktop\\Projetos\\Desafio-Poo\\Desafio-Poo.csproj",
       "projectName": "Desafio-Poo",
-      "projectPath": "C:\\Users\\Brito\\Desktop\\Projetos\\Repositorio-Desafios-Bootcamp-DIO\\Desafio-Poo\\Desafio-Poo.csproj",
+      "projectPath": "C:\\Users\\Brito\\Desktop\\Projetos\\Desafio-Poo\\Desafio-Poo.csproj",
       "packagesPath": "C:\\Users\\Brito\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Brito\\Desktop\\Projetos\\Repositorio-Desafios-Bootcamp-DIO\\Desafio-Poo\\obj\\",
+      "outputPath": "C:\\Users\\Brito\\Desktop\\Projetos\\Desafio-Poo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
